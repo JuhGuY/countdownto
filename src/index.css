@@ -76,6 +76,7 @@ code {
   row-gap: 20px;
   font-size: 5vh;
   width: 100%;
+  background-color: red;
 }
 
 hr {
